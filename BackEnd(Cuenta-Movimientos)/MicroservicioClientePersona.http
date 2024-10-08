@@ -1,0 +1,6 @@
+@BackEnd_Cuenta_Movimientos__HostAddress = http://localhost:5052
+
+GET {{BackEnd_Cuenta_Movimientos__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
